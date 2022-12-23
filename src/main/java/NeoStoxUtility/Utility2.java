@@ -36,6 +36,7 @@ public class Utility2
 	
 	public static void screenshot(WebDriver driver,String screenShotName) throws IOException
 	{
+		
 		wait(driver,500);
 		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 	    File dest=new File("D:\\My Folder\\Suraj\\"+screenShotName+".png");
