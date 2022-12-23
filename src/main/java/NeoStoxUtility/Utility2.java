@@ -32,6 +32,7 @@ public class Utility2
 		
 		Reporter.log("reading "+key+" from property file", true);
 		return value;
+		
 	}
 	
 	public static void screenshot(WebDriver driver,String screenShotName) throws IOException
