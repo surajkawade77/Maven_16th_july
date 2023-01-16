@@ -89,12 +89,12 @@
       <![CDATA[closing browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-22T11:41:37 IST" name="Default suite" finished-at="2022-12-22T11:42:06 IST" duration-ms="28773">
+  <suite started-at="2022-12-22T17:44:47 IST" name="Default suite" finished-at="2022-12-22T17:45:14 IST" duration-ms="26664">
     <groups>
     </groups>
-    <test started-at="2022-12-22T11:41:37 IST" name="Default test" finished-at="2022-12-22T11:42:06 IST" duration-ms="28773">
+    <test started-at="2022-12-22T17:44:47 IST" name="Default test" finished-at="2022-12-22T17:45:14 IST" duration-ms="26664">
       <class name="neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile">
-        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T11:41:37 IST" name="launchNeoStox" finished-at="2022-12-22T11:41:45 IST" duration-ms="8043" status="PASS">
+        <test-method is-config="true" signature="launchNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T17:44:47 IST" name="launchNeoStox" finished-at="2022-12-22T17:44:55 IST" duration-ms="7732" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[reading url from property file]]>
@@ -104,7 +104,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- launchNeoStox -->
-        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T11:41:46 IST" name="logintoNeoStox" finished-at="2022-12-22T11:41:58 IST" duration-ms="12959" status="PASS">
+        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T17:44:55 IST" name="logintoNeoStox" finished-at="2022-12-22T17:45:12 IST" duration-ms="17209" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for 1000ms]]>
@@ -159,7 +159,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logintoNeoStox -->
-        <test-method signature="validateUserID()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T11:41:58 IST" name="validateUserID" finished-at="2022-12-22T11:41:59 IST" duration-ms="922" status="PASS">
+        <test-method signature="validateUserID()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T17:45:12 IST" name="validateUserID" finished-at="2022-12-22T17:45:12 IST" duration-ms="325" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for 1000ms]]>
@@ -184,7 +184,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateUserID -->
-        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T11:41:59 IST" name="logOutFromNeoStox" finished-at="2022-12-22T11:42:05 IST" duration-ms="5193" status="PASS">
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T17:45:12 IST" name="logOutFromNeoStox" finished-at="2022-12-22T17:45:14 IST" duration-ms="1088" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Waiting for 1000ms]]>
@@ -194,7 +194,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logOutFromNeoStox -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T11:42:05 IST" name="closeBrowser" finished-at="2022-12-22T11:42:06 IST" duration-ms="1523" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestclasses.ValidateNeoStoxUserNameUsingPropertyfile@7a35b0f5]" started-at="2022-12-22T17:45:14 IST" name="closeBrowser" finished-at="2022-12-22T17:45:14 IST" duration-ms="200" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing browser]]>
